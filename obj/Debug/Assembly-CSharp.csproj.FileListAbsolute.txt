@@ -1,0 +1,45 @@
+C:\Users\user\Documents\Unity Projects\Testing 2D game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Documents\Unity Projects\Testing 2D game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Documents\Unity Projects\Testing 2D game\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Documents\Unity Projects\Testing 2D game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Testing 2D game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Testing 2D game\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Testing 2D game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.xml
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEditor.xml
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\OneDrive\Noahs Ark Jam Game\Noah's Ark\obj\Debug\Assembly-CSharp.pdb

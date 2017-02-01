@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3B9A93FF-9EB1-16C3-D626-BF4029455B04}") = "Noah's Ark Vilius", "Assembly-CSharp.csproj", "{2FE5CA87-A4F2-A8AD-7CB5-4360F8B1DE2C}"
+EndProject
+Project("{3B9A93FF-9EB1-16C3-D626-BF4029455B04}") = "Noah's Ark Vilius", "Assembly-CSharp-Editor.csproj", "{4BD09BE9-13DC-B7E9-0E12-BBE2BE642A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE5CA87-A4F2-A8AD-7CB5-4360F8B1DE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE5CA87-A4F2-A8AD-7CB5-4360F8B1DE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE5CA87-A4F2-A8AD-7CB5-4360F8B1DE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE5CA87-A4F2-A8AD-7CB5-4360F8B1DE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD09BE9-13DC-B7E9-0E12-BBE2BE642A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD09BE9-13DC-B7E9-0E12-BBE2BE642A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD09BE9-13DC-B7E9-0E12-BBE2BE642A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD09BE9-13DC-B7E9-0E12-BBE2BE642A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
